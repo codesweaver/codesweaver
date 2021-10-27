@@ -1,4 +1,4 @@
-### 어제보다 오늘 더 나은 개발자 codesweaver!
+### 어제보다 오늘 더 나은 개발자
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinplest)](https://hits.seeyoufarm.com)
 
